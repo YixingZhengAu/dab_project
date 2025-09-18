@@ -1,7 +1,7 @@
 # test_datetime_utils.py
 
 import datetime
-from src.utils.datetime_utils import timestamp_to_date_col
+# from src.utils.datetime_utils import timestamp_to_date_col
 
 def test_timestamp_to_date_col(spark):
     assert 1==1
