@@ -3,7 +3,7 @@
 import datetime
 # from src.utils.datetime_utils import timestamp_to_date_col
 
-def test_timestamp_to_date_col(spark):
+def test_timestamp_to_date_col():
     assert 1==1
     # # Create a DataFrame with a known timestamp column using a datetime object
     # data = [(datetime.datetime(2025, 4, 10, 10, 30, 0),)]

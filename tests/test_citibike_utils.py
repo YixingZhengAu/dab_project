@@ -6,7 +6,7 @@ import datetime
 
 # Adjust the sys.path if needed (usually in conftest.py or at the top of your test files)
 
-def test_get_trip_duration_mins(spark):
+def test_get_trip_duration_mins():
     assert 1==1
             
     # # Create a test DataFrame with known start and end timestamps using datetime objects
